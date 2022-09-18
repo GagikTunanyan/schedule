@@ -1,0 +1,24 @@
+.Wrapper {
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 18px;
+    border: 1px solid #D0D5DD;
+    border-radius: 4px;
+    background-color: white;
+    column-gap: 8px;
+    color: #667085;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+    line-height: 1px;
+    .Icon {
+        font-size: 20px;
+        color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

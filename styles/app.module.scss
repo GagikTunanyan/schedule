@@ -1,0 +1,11 @@
+.App {
+    max-width: 1850px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    column-gap: 24px;
+    .Main {
+        width: calc(100% - 81px);
+    }
+}

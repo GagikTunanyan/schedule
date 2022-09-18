@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Dianne Russell",
+        "avatar": "/diane-avatar.png",
+        "id": "1",
+        "schedules": [
+            { "date": "Fri Sep 23 2022 00:00:00 GMT+0400 (Armenia Standard Time)", "event": [] },
+            { "date": "Fri Sep 23 2022 00:00:00 GMT+0400 (Armenia Standard Time)", "event": [] }
+        ]
+    },
+    {
+        "name": "Albert Flores",
+        "avatar": "/albert-avatar.png",
+        "id": "2",
+        "schedules": []
+    },
+    {
+        "name": "Brooklyn Simmons",
+        "avatar": "/diane-avatar.png",
+        "id": "3",
+        "schedules": []
+    },
+    {
+        "name": "Kristin Watson",
+        "avatar": "/diane-avatar.png",
+        "id": "4",
+        "schedules": []
+    }
+]

@@ -1,0 +1,35 @@
+.TopSidebar {
+    height: 74px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    width: 100%;
+    border-bottom: 1px solid #E4E7EC;
+    .Container {
+        height: 32px;
+        width: 100%;
+        overflow-x: auto;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        column-gap: 24px;
+        .Tab {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            height: inherit;
+            text-transform: capitalize;
+            &.Selected {
+                color: #6941C6;
+            }
+            .SelectedBorder {
+                display: block;
+                width: 100%;
+                height: 2px;
+                align-self: stretch;
+                background-color: #6941C6;
+            }
+        }
+    }
+}

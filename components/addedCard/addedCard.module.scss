@@ -1,0 +1,17 @@
+.AddedCardWrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    .AddedIcon {
+        width: 28px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #F2F4F7;
+        border-radius: 16px;
+    }
+}
